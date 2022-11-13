@@ -15,9 +15,9 @@ Tool com with :
 =====================================================
 commands:-
 for non-root.
-------------
-remove "sudo in line:-29,30,31"
--------------------------------
+-----------
+
+
 In termux:-
 apt update && apt upgrade -y
 apt install git
