@@ -19,7 +19,9 @@ apt install openjdk-17
 
 git clone https://github.com/Noob-hacker369/Metasploit_Payload.git
 cd Payload
+
 chmod +x payload_generate.sh
+
 bash payload_generate.sh
 
 
